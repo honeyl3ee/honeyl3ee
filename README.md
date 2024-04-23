@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=1,&height=250&section=header&text=DANBI&fontSize=60)
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyl3ee&?count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=switb)](https://solved.ac/switb)
 
 <br /><br />
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
